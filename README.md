@@ -8,4 +8,4 @@ FEATURE CREATION and Feature scaling followed next. A new feature named "ratio"(
 The new feature created("ratio") had much higher correlation with the target variable as compared to the feature "weight".
 Finally after DATA PREPROCESSING and FEATURE GENERATION ; Decision Tree model was implemented.
 Decision Tree Classifier was impelmented by performing 5-Fold Cross validation for tuning the parameter max_depth of the tree so as to avoid Overfitting.
-At the end ; predictions were made on the Test data using the Decision Tree Model learned on the Training data and were stored in the final named predictions.csv 
+At the end ; predictions were made on the Test data using the Decision Tree Model learned on the Training data and were stored in the file named predictions.csv 
